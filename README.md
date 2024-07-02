@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Avijit+Biswas!" alt="Typing SVG" /></p>
 <p>
-  <span align="center">A passionate Front-end Web Developer from Bangladesh</span>
-<span align="center"> <img src="https://komarev.com/ghpvc/?username=devo-ab&label=Profile%20views&color=0e75b6&style=flat" alt="devo-ab" /> </span>
+  <span align="right">A passionate Front-end Web Developer from Bangladesh</span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=devo-ab&label=Profile%20views&color=0e75b6&style=flat" alt="devo-ab" /> </span>
 </p>
 
 ## :eyes: Current overview
@@ -41,3 +41,8 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=devo-ab&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devo-ab&show_icons=true&locale=en" alt="devo-ab" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devo-ab&show_icons=true&locale=en&layout=compact" alt="devo-ab" /></p>
+
